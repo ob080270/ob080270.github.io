@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Добро пожаловать в мое портфолио
+title: My portfolio
 ---
 
-# Добро пожаловать в мое портфолио!
-Здесь я публикую свои проекты.
+# Welcome to my portfolio!
 
-## Мои проекты
+## My projects:
 - [Husqvarna Warranty Automatization](husqvarna-warranty/)
